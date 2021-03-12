@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anmatr
 - 👀 I’m interested in software engineering with Java, C#
-- 🌱 I’m currently learning C#, micro services, and all around architectures.
+- 🌱 I’m currently learning C#, micro services, open banking, and all around architectures.
 - 💞️ I’m looking to collaborate on - not sure yet.
 - 📫 How to reach me - not sure yet.
 
